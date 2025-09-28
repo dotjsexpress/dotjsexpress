@@ -52,12 +52,6 @@ Most institutions do not have a reliable system to track and engage their alumni
 
 We are a team of 6 dedicated members bringing our unique strengths to the project:
 
----
-
-## 🧠 Team .js Express
-
-We are a team of 6 dedicated members bringing our unique strengths to the project:
-
 | Name              | Role                          | LinkedIn |
 |-------------------|-------------------------------|----------|
 | **Ashutosh Shukla**   | Full Stack Developer (*Team Leader*) | [LinkedIn Profile](https://www.linkedin.com/in/panditashushukl) |
