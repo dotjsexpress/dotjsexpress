@@ -1,4 +1,4 @@
-# .js Express
+# Hi👋, We're team .js Express
 
 Welcome to the official repository of **Team .js Express** – a group of six passionate developers and innovators working together to build **The Alumni Router**, a centralized alumni management platform.
 
